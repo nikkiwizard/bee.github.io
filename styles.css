@@ -1,6 +1,11 @@
 body{
 	background:yellow;
-	padding: 15px;
-	margin: 10px;
-	border: 10px solid springgreen;
+}
+
+table{
+	background:
+		linear-gradient(aqua,white);
+		padding: 15px;
+		margin: 10px;
+		border: 10px dotted springgreen;
 }
