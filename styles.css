@@ -7,7 +7,7 @@ body{
 table{
 	background:
 		linear-gradient(aqua,white);
-		padding: 20px;
+		padding: 7px;
 		margin: 5px;
 		border: 10px dotted springgreen;
 		border-spacing: 6px;
@@ -18,6 +18,6 @@ h5{
 }
 
 img{
-	height: 100px;
-	width: 100px;
+	height: 500px;
+	width: 500px;
 }
