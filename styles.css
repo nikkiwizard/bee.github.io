@@ -1,4 +1,7 @@
 body{
-	background: 
-		linear-gradient(white,yellow);
+	background:yellow;
+}
+
+h1{
+	background-image: url("https://pixabay.com/photo-15218/");
 }
