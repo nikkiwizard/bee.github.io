@@ -7,11 +7,17 @@ body{
 table{
 	background:
 		linear-gradient(aqua,white);
-		padding: 15px;
-		margin: 10px;
+		padding: 20px;
+		margin: 5px;
 		border: 10px dotted springgreen;
+		border-spacing: 6px;
 }
 
 h5{
 	color: red;
+}
+
+img{
+	height: 100px;
+	width: 100px;
 }
